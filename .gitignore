@@ -413,4 +413,7 @@ FodyWeavers.xsd
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
-*obj
+
+InstaClone.API/obj/
+InstaClone.Domain/obj/
+InstaClone.Infrastructure/obj/
